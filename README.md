@@ -1,4 +1,4 @@
-# Z-Score AI Arb
+# Project
 
 An **end-to-end quantitative trading system** combining:
 - **Statistical Arbitrage** (Pairs Trading)
